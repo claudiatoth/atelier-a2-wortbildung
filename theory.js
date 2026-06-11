@@ -50,14 +50,19 @@ const theoryHTML = `
                 </div>
             </div>
 
-            <!-- ===== SCHREIBWERKSTATT (form de adăugat de Claudia) ===== -->
+            <!-- ===== SCHREIBWERKSTATT — Trimite textul Claudiei ===== -->
             <div style="background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%); border: 2px solid #10B981; border-radius: 14px; padding: 24px 22px; margin-top: 22px; text-align: center; box-shadow: 0 2px 8px rgba(16, 185, 129, 0.12);">
-                <div style="font-size: 2.2rem;">✍️</div>
+                <div style="font-size: 2.2rem; margin-bottom: 4px;">✍️</div>
                 <h4 style="color: #065f46; font-size: 1.2rem; margin: 0 0 8px; font-weight: bold;">Schreibwerkstatt — vrei să-ți corectez textul?</h4>
-                <p style="color: #047857; font-size: 0.95rem; margin: 0 0 14px; max-width: 540px; margin-left: auto; margin-right: auto; line-height: 1.5;">
-                    Scrie un text scurt (despre sănătate, libertate, viață sau planurile tale) folosind cel puțin <strong>6 substantive în -ung / -heit / -keit</strong> (die Meinung, die Gesundheit, die Möglichkeit, die Freiheit...). <strong>Min. 60 cuvinte.</strong>
+                <p style="color: #047857; font-size: 0.95rem; margin: 0 0 16px; max-width: 540px; margin-left: auto; margin-right: auto; line-height: 1.5;">
+                    Scrie un text scurt (despre sănătate, libertate, viață sau planurile tale) folosind cel puțin <strong>6 substantive în -ung / -heit / -keit</strong> (die Meinung, die Gesundheit, die Möglichkeit, die Freiheit...). <strong>Min. 60 cuvinte.</strong> Îți răspund personal pe email. 🦋
                 </p>
-                <p style="color: #6b7280; font-size: 0.85rem; margin: 0; font-style: italic;">📨 Linkul formularului va fi adăugat în curând de Claudia.</p>
+                <a href="https://forms.gle/37k3HdUksGgQPSSZ6" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #10B981; color: white; padding: 13px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1rem; box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3);">
+                    Trimite textul Claudiei →
+                </a>
+                <p style="color: #6b7280; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
+                    ʚଓ Răspuns personal pe email · Nu uita să-ți treci adresa de email în formular
+                </p>
             </div>
         </div>
     </div>
